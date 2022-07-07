@@ -1,4 +1,4 @@
-snu.lge.com
-su-dev.lge.com
-su.lge.com
-su-ssl.lge.com
+0.0.0.0 snu.lge.com
+0.0.0.0 su-dev.lge.com
+0.0.0.0 su.lge.com
+0.0.0.0 su-ssl.lge.com
